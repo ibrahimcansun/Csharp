@@ -1,3 +1,5 @@
-# FootballGame
-Football with optional games
-Football manager, business man, gambling...
+# Csharp
+
+ASP.NET CORE
+ASP.NET
+MSSQL
