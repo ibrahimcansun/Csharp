@@ -1,0 +1,10 @@
+C:\Users\ibcan\Desktop\Soru1\Soru1\bin\Debug\Soru1.exe.config
+C:\Users\ibcan\Desktop\Soru1\Soru1\bin\Debug\Soru1.exe
+C:\Users\ibcan\Desktop\Soru1\Soru1\bin\Debug\Soru1.pdb
+C:\Users\ibcan\Desktop\Soru1\Soru1\obj\Debug\Soru1.csprojAssemblyReference.cache
+C:\Users\ibcan\Desktop\Soru1\Soru1\obj\Debug\Soru1.Form1.resources
+C:\Users\ibcan\Desktop\Soru1\Soru1\obj\Debug\Soru1.Properties.Resources.resources
+C:\Users\ibcan\Desktop\Soru1\Soru1\obj\Debug\Soru1.csproj.GenerateResource.cache
+C:\Users\ibcan\Desktop\Soru1\Soru1\obj\Debug\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\ibcan\Desktop\Soru1\Soru1\obj\Debug\Soru1.exe
+C:\Users\ibcan\Desktop\Soru1\Soru1\obj\Debug\Soru1.pdb
