@@ -1,0 +1,6 @@
+TR
+Basit uygulamaların bulunduğu klasör.
+
+EN
+This folder includes simple applications.
+
